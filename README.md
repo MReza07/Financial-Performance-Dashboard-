@@ -164,9 +164,7 @@ This project is distributed under the MIT License.
 Md. Rezaul Repon
 
 Data Analyst – Power BI | SQL | Python
-
 📧 Email: reazulrepon@gmail.com
-
 🔗 GitHub: https://github.com/MReza07
 
 
