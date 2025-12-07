@@ -1,15 +1,15 @@
-📊 Financial Performance Dashboard
+## 📊 Financial Performance Dashboard
 
 Power BI | Sales & Profitability | Forecasting | KPI Tracking
 
 A comprehensive Financial Analysis Dashboard built in Power BI to evaluate company performance across products, segments, and countries. This dashboard delivers meaningful insights into sales trends, profit margins, product quality, YoY/MoM growth, and cost efficiency, helping organizations make smarter, data-driven decisions.
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 🔗 View Screenshots:
 https://github.com/MReza07/Financial-Performance-Dashboard-/tree/main/Schreenshots
 
-📁 Project Overview
+## 📁 Project Overview
 
 This dashboard brings together key financial metrics to help stakeholders:
 
@@ -23,7 +23,7 @@ Improve planning, budgeting, and forecasting
 
 It provides a clear and interactive view of critical performance indicators to support strategic decision-making.
 
-⭐ Key Performance Indicators (KPIs)
+## ⭐ Key Performance Indicators (KPIs)
 
 Sales – Current VS Last Year
 
@@ -42,7 +42,7 @@ Each KPI includes:
 ✔ Percentage change
 ✔ Visual indicators for improvement or decline
 
-📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 
 1️⃣ Product-Level Analysis
 
@@ -70,7 +70,7 @@ Total Profit by Country
 
 Country-wise Profit Margins (Germany, France, Canada, US, Mexico)
 
-4️⃣ Interactive Filters
+## 4️⃣ Interactive Filters
 
 Product Filter
 
@@ -80,18 +80,20 @@ Month Selector
 
 These filters help users explore the data dynamically and uncover deeper insights.
 
-📂 Project Structure
+## 📂 Project Structure
 
 Financial-Dashboard
 │
 ├── 📄 Dataset/
 
 │   └── Financial Dataset.xlsx
+
 │
-├── 📄 PBIX/
+├── 📄 Report/
 
 │   └── Financial Dashboard.pbix
 │
+
 ├── 📄 Screenshots/
 
 │   ├── Financial Dashboard.PNG
@@ -107,7 +109,7 @@ Financial-Dashboard
 │
 └── 📄 README.md
 
-📐 Sample DAX Measures
+## 📐 Sample DAX Measures
 
 Total Sales =
 
@@ -141,7 +143,7 @@ RETURN
 
     [Total Profit] - PrevMonth
 
-🎯 Business Outcomes
+## 🎯 Business Outcomes
 
 Identifies high-profit products and underperforming segments
 
@@ -153,7 +155,7 @@ Helps optimize pricing, product quality, and COGS
 
 Supports accurate budgeting and forecasting
 
-🚀 How to Open the Dashboard
+## 🚀 How to Open the Dashboard
 
 Navigate to the PBIX folder
 
@@ -163,7 +165,7 @@ Open it using Power BI Desktop
 
 Use filters (Product, Year, Month) to explore insights interactively
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI Desktop
 
@@ -175,16 +177,18 @@ Excel Dataset
 
 Interactive Visual Analytics
 
-📜 License
+## 📜 License
 
 This project is distributed under the MIT License.
 
-📬 Contact
+## 📬 Contact
 
 Md. Rezaul Repon
 
-Data Analyst – Power BI | SQL | Python
+Data Analyst (Power BI | SQL | Python)
 
-📧 Email: reazulrepon@gmail.com
+🔗 LinkedIn:www.linkedin.com/in/repon07
 
 🔗 GitHub: https://github.com/MReza07
+
+📧 Email: reazulrepon@gmail.com
